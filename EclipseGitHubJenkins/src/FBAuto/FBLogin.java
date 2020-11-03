@@ -26,6 +26,8 @@ public class FBLogin {
 		Thread.sleep(4000);
 		//close and quit browser
 		  driver.quit();
+		  
+		  System.out.println("successfully execute");
 
 	}
 
